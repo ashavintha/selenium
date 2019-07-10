@@ -6,6 +6,7 @@ public class FirstClassGit {
 	System.out.println("HI....");
 	System.out.println("hello asha");
 	System.out.println("welcome to class");
+	System.out.println("today's class");
 	}
 
 }
